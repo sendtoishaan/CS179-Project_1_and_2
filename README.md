@@ -5,7 +5,7 @@ Description: Given a set of locations to visit, find the optimal set or list of 
 
 Programming Language: Python
 
-Comes with 5(.txt) test case files.
+Comes with 10(.txt) test case files.
 
 Libraries/External Tools Used:
 
